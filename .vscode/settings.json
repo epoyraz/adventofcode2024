@@ -1,0 +1,9 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true // Applies all fixes (includes Ruff fixes)
+  },
+  "editor.formatOnSave": true, // Enables formatting on save
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python" // Ensure Python formatter is used
+  }
+}

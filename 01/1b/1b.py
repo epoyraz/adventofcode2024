@@ -1,7 +1,7 @@
 # read input.txt
 
 lines = []
-with open('input.txt') as f:
+with open("input.txt") as f:
     lines = f.readlines()
 
 # col1
